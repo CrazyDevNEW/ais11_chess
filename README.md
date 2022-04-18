@@ -1,2 +1,3 @@
-# ais11
+# AIS11_CHESS
+
 General project
